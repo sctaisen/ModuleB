@@ -5,8 +5,8 @@ import {Body} from "./components/body";
 export const ModuleB = (props) => {
   return (
     <div className="module-b-content">
-      <Title title="ModuleB Title" />
-      <Body content="ModuleB Body" />
+      <Title title="ModuleB Title commit test" />
+      <Body content="ModuleB Body commit test" />
     </div>
   );
 };
